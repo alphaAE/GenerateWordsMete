@@ -1,0 +1,627 @@
+存量,Exist,exist
+行政区,Administrative region,aregion
+现象,Phenomenon,phenn
+文件,document,docut
+设施,facility,faciy
+搜索,search,search
+浊度,Turbidity,###turby
+经度,longitude,longe
+适生区,Apparent area,aarea
+方程,equation,equan
+平台,platform,platm
+长度,length,length
+影响,Influence,infle
+重点,Focus on,###fon
+短波,shortwave,shore
+等压,Wait,wait
+规律,law,law
+遥感,remote sensing,rsens
+冰情,Ice,###ice
+辐射源,Radiation source,rsource
+图,picture,###picture
+评价,Evaluation,evaln
+径流,run-off,run-off
+湍流,Turbulence,turbe
+幅度,Amplitude,ample
+垂直,vertical,vertl
+减缓,Slow down,sdown
+量纲,dimension,dimen
+系列,series,series
+企业,enterprise,entee
+探测器,detector,###deter
+框架,frame,frame
+东,East,east
+冰雹,hail,hail
+产业链,Industrial chain,ichain
+高空,high altitude,halti
+直径,diameter,diamr
+储存量,Storage,###storage
+海冰,Sea ice,sice
+天然气,natural gas,ngas
+交通,transportation,###trann
+北半球,Northern Hemisphere,nhemi
+密集度,Density,###density
+归属,Belong to,bto
+湿地,wetlands,wetls
+半径,radius,radius
+物资,Material,###matel
+因素,factor,###factor
+作物,crop,crop
+总站,Head office,hoffice
+隧道,tunnel,tunnel
+譜,Spectrum,###specm
+核心,core,core
+分布,distributed,distd
+路况,Road conditions,rcond
+雷电,Lightning,###lighg
+定时,timing,timing
+灵敏,Sensitive,sense
+生产力,productive forces,pforces
+矛盾,contradiction,contn
+积涝,Flood,###flood
+预警,Warning,warning
+瓶颈,bottleneck,bottk
+硝化,Nitrification,nitrn
+减排,Reducing emissions,remis
+卫生,health,health
+委员会,Committee,###comme
+集,set,set
+稳定性,stability,staby
+专题,Special topic,stopic
+气旋,cyclone,cyclone
+模式,model,###model
+实况,Active,active
+学院,College,college
+资质,Qualification,qualn
+积分,integral,intel
+雷暴,Thunderous,thuns
+订阅,subscription,subsn
+仪器,instrument,instt
+生物,biology,biology
+水电,Hydropower,hydrr
+组,Group,###group
+流场,Flow field,ffield
+分子,molecular,moler
+测序,Sequence,seque
+串行,Serial,serial
+生理,physiological,physl
+涝灾,Flood,###flood
+元素,element,###element
+监测,monitor,###monitor
+客运量,Passenger volume,pvolume
+地球,Earth,earth
+属性,Attributes,attrs
+天线,antenna,antenna
+措施,measure,measure
+甲烷,Methane,methane
+氨,ammonia,ammonia
+预估,Predict,###predict
+形势,situation,situn
+土地,land,###land
+公路,highway,highway
+队伍,Team,team
+中国,China,china
+性能,performance,###perfe
+大学,the University,tuniv
+覆盖度,Coverage,###covee
+气压,Air pressure,apres
+生物量,Biomass,biomass
+热稳定性,Thermal stability,tstab
+氧化,Oxidation,oxidn
+海浪,Waves,waves
+农气,Agricultural,agril
+水利,Water conservancy,wcons
+原始,original,origl
+图像,image,image
+形式,form,form
+组合,combination,combn
+历史,history,history
+能谱,Spectrum,###specm
+天,sky,sky
+二进制,Binary,binary
+阵列,Array,array
+海湾,bay,bay
+问题,question,quesn
+未来,future,future
+气象,meteorological,metel
+依据,in accordance with,iaw
+波长,wavelength,waveh
+中心,center,center
+指导,guide,guide
+厚度,thickness,thics
+固碳量,Carbon amount,camount
+含量,content,###content
+峰值,Peak,peak
+运动,sports,sports
+分量,Component,compt
+种植区,Planting area,###parea
+生长期,Growth period,gperiod
+体育场,stadium,stadium
+技术,technology,techy
+监督,Supervise,supee
+校准,calibration,calin
+线,Wire,wire
+自动,automatic,autoc
+预案,Plan,plan
+产区,Production area,###parea
+情况,Condition,###condn
+植物,plant,plant
+服务器,server,server
+灾害性,Disaster,###disar
+覆盖率,Coverage,###covee
+群落,Community,commy
+图形,Graphic,graphic
+世纪,century,century
+合成,synthesis,synts
+光谱,spectrum,###specm
+机理,mechanism,mechm
+表,surface,surface
+入射,Incident,incit
+台风,typhoon,typhoon
+风量,Air volume,avolume
+结果,result,result
+业务,business,busis
+频次,frequency,###freqy
+光,Light,light
+温带,temperate zone,tzone
+洪涝,Flood,###flood
+强降雨,Heavy rainfall,hrain
+评估,Evaluate,evale
+存储,storage,###storage
+单位,unit,###unit
+趋势,trend,trend
+县,county,county
+下载,download,downd
+强度,strength,streh
+名单,List,###list
+货物,goods,goods
+方式,Way,###way
+水果,fruit,fruit
+旋涡,Vortex,###vortex
+分配,distribute,diste
+层,layer,layer
+信号,Signal,signal
+空气,Air,air
+有机,organic,organic
+土壤,soil,soil
+涡旋,vortex,###vortex
+百分比,percentage,perce
+品名,Name,###name
+月,moon,moon
+沙尘暴,Sandstorm,sandm
+程度,degree,degree
+实验,experiment,expet
+局,Bureau,bureau
+政府,government,govet
+资源,resource,resoe
+灌溉,irrigation,irrin
+建筑,architecture,###arche
+训练,train,train
+量,quantity,###quany
+神经,nerve,nerve
+性质,nature,###nature
+要素,Elements,elems
+特征,feature,###feature
+时段,Period,period
+位置,Location,locan
+死亡,die,die
+季节,season,###season
+广播,broadcast,broat
+试验,test,###test
+配置,Configuration,confn
+浏览,Browse,browse
+体积,volume,volume
+洪水,flood,###flood
+处理,deal with,dwith
+世界,world,world
+水位,Water level,wlevel
+场,field,field
+生产,Production,prodn
+理论,theory,theory
+种类,type,###type
+物理,physics,physics
+因子,factor,###factor
+雨涝,Rainwater,###rainr
+名牌,famous brand,fbrand
+需求,need,need
+闪电,lightning,###lighg
+缺陷,defect,defect
+站点,Site,site
+冻结,freeze,freeze
+原理,principle,prine
+频率,frequency,###freqy
+次数,frequency,###freqy
+要求,Require,require
+旅游,travel,travel
+水,water,###water
+接口,interface,intee
+专家,expert,expert
+渠道,channel,channel
+参数,parameter,parar
+意义,significance,signe
+船舶,Ship,ship
+通道,aisle,aisle
+品质,quality,###quality
+范围,scope,scope
+途径,way,###way
+资料,material,###matel
+复杂度,the complexity,tcomp
+条件,condition,###condn
+参考,refer to,rto
+风险,risk,risk
+品种,Variety,variety
+地带,zone,zone
+风暴,storm,storm
+数量,quantity,###quany
+地图,map,map
+规模,scale,###scale
+辨率,Resolution,###reson
+折射,refraction,refrn
+背景,background,backd
+积冰,Ice accumulation,iaccu
+调查,investigation,inven
+公共,public,public
+平面,flat,flat
+前提,premise,premise
+短,short,short
+蒸发,evaporation,evapn
+效果,Effect,###effect
+开发,Develop,develop
+带宽,bandwidth,bandh
+策略,Strategy,stray
+电场,electric field,efield
+地温,Geothermal,geotl
+生态区,Ecological Area,earea
+干旱,drought,drought
+精度,Accuracy,accuy
+检测,Test,###test
+责任,responsibility,respy
+具体,specific,specc
+确定性,Certainty,certy
+报告,Report,report
+碳,carbon,###carbon
+社会,society,society
+光子,Photon,photon
+地质,Geology,geology
+硬件,hardware,harde
+采气法,Qi,qi
+建模,Modeling,modeg
+特性,characteristic,###charc
+质量,quality,###quality
+液体,liquid,###liquid
+经历,experience,expee
+测试,test,###test
+政区,steer,steer
+经纬度,Longitude and longitude,lal
+气温,Temperature,###tempe
+二氧化碳,carbon dioxide,cdiox
+特色,feature,###feature
+可行性,feasibility,feasy
+消耗,Consume,consume
+河流,river,river
+作用,effect,###effect
+雾,fog,fog
+区域,area,###area
+表现,Performance,###perfe
+站,stand,stand
+发现,Find,find
+细菌,bacteria,bacta
+冰,ice,###ice
+责任人,Responsible,respe
+亚热带,Subtropical,subtl
+密度,density,###density
+射线,Rays,rays
+人员,personnel,persl
+浑浊度,Turbidity,###turby
+本文,This article,tarti
+体系,system,###system
+全局,Global,global
+段,part,part
+优势,Advantage,advae
+样本,sample,sample
+差异,difference,diffe
+谱,Spectrum,###specm
+等级,grade,grade
+雨量,rainfall,###rainl
+必要性,necessity,necey
+轨道,track,track
+切片,slice,slice
+霾,haze,haze
+可信度,Credibility,credy
+查询,Inquire,inquire
+产值,output value,ovalue
+基因,Gene,gene
+管理局,Administrative bureau,abureau
+类型,type,###type
+邮件,mail,mail
+降雨,Rainfall,###rainl
+源,source,source
+描述,describe,desce
+压,Press,press
+元,Yuan,yuan
+器官,organ,organ
+地面,ground,###ground
+卫星,satellite,satee
+科室,Department,###depat
+方位,position,###posin
+点,point,point
+时间,time,time
+观测站,Observatory,obsey
+地形,terrain,terrain
+分析,analyze,###analyze
+列表,List,###list
+储存,store,store
+接收,take over,tover
+视频,video,video
+气,gas,###gas
+市场,market,market
+进制,Advance,advance
+指标,index,###index
+集合,gather,gather
+浑浊,turbid,turbid
+网络,The internet,tinte
+能源,energy,###energy
+液态,Liquid,###liquid
+温度,temperature,###tempe
+地理,geography,geogy
+里程,mileage,mileage
+价值,value,###value
+模块,Module,module
+南,South,south
+完成,Finish,finish
+温差,Temperature difference,tdiff
+单,one,one
+海拔,altitude,altie
+研发,Research and development,rad
+预测,predict,###predict
+录像,Videos,videos
+特点,Characteristic,###charc
+部门,department,###depat
+浓度,concentration,concn
+灵敏度,Sensitivity,sensy
+增多,increase,incre
+时效性,Timeliness,times
+产品,product,product
+环境,environment,envit
+探测仪,detector,###deter
+功能,Features,feats
+规定,Regulation,regun
+焦距,focal length,flength
+测量,Measurement,meast
+单元,unit,###unit
+铁路,railway,railway
+误差,error,error
+地,land,###land
+关键,The essential,tesse
+医院,Hospital,hospl
+度,Spend,spend
+经济,economy,economy
+应用,application,appln
+产量,Yield,yield
+命名,name,###name
+高度,high,###high
+雨水,rainwater,###rainr
+毫米,Millimeter,millr
+暴雨,rainstorm,rainm
+分类,Classification,clasn
+草地,grassland,grasd
+体表,Body surface,bsurf
+指数,index,###index
+区,Area,###area
+平方,square,square
+部,department,###depat
+颗粒,Granules,grans
+酸雨,Sour rain,srain
+省,Province,prove
+多,many,many
+格,grid,###grid
+请求,ask,ask
+气溶胶,Air -soluble,a-sol
+项目,project,###project
+上游,Upstream,upstm
+可靠性,reliability,reliy
+模型,Model,###model
+高,high,###high
+化学,Chemical,cheml
+连续,continuous,conts
+负离子,Ion,###ion
+函数,function,funcn
+空间,space,space
+清单,List,###list
+城区,Urban area,uarea
+驱动,drive,drive
+辐射率,Radiation,###radin
+粒子,particle,parte
+污染,pollute,pollute
+控制,control,control
+降水,precipitation,precn
+效应,effect,###effect
+数值,Value,###value
+科学院,Academy of Sciences,aos
+面,noodle,noodle
+数据,data,data
+夜间,at night,anight
+太阳,sun,sun
+收入,income,income
+状态,state,state
+关系,relation,relan
+能量,energy,###energy
+规划,planning,plang
+隐患,Hidden danger,hdanger
+云层,Cloud layer,clayer
+架构,Architecture,###arche
+风速,Wind speed,wspeed
+风场,Wind farm,wfarm
+光学,Optics,optics
+过程,process,###process
+通信,Communicate,###comme
+常数,constant,const
+服务,Serve,serve
+重量,weight,weight
+电站,Power station,pstat
+吞吐量,Throughput,throt
+行业,industry,###induy
+能力,ability,ability
+锐度,Sharpness,shars
+流程,process,###process
+名称,name,###name
+中药,traditional Chinese medicine,tcm
+地表,Ground,###ground
+数据库,database,datae
+用户,user,user
+气象局,Meteorological bureau,mbureau
+激光,laser,laser
+大风,Strong wind,swind
+陆地,land,###land
+静态,Static,static
+雷达,radar,radar
+传输,transmission,###trann
+湿润,Wet,wet
+关注,focus on,###fon
+事故,ACCIDENT,accit
+图片,picture,###picture
+整体,overall,overall
+功率,power,power
+物质,substance,subse
+方法,method,method
+位势,Position,###posin
+日,day,day
+湿度,humidity,humiy
+离子,ion,###ion
+决策,decision making,dmaking
+海面,Sea surface,ssurf
+风能,Wind energy,wenergy
+灾情,Disaster,###disar
+箱,box,box
+国家,nation,nation
+经,through,through
+输入,enter,enter
+沙尘,Dust,dust
+角度,angle,angle
+目标,Target,target
+文化,culture,culture
+安全,Safety,safety
+委员,Member,member
+水源,Water source,wsource
+许可证,license,license
+风向,wind direction,wdire
+气体,gas,###gas
+阈值,Threshold,thred
+解析,Analyze,###analyze
+算法,algorithm,algom
+热源,Heat source,hsource
+预报,forecast,foret
+屏,Screen,screen
+间距,spacing,spacing
+温室,greenhouse,greee
+档,files,files
+委托,Entrust,entrust
+分辨率,Resolution,###reson
+X射线,X -ray,x-ray
+地区,area,###area
+利用率,Utilization rate,urate
+能见度,visibility,visiy
+气象台,Meteorite,metee
+降温,Cool down,cdown
+工作,Work,work
+散度,Divergence,divee
+污染物,Pollutant,pollt
+基础,Base,base
+研究所,graduate School,gschool
+任务,Task,task
+运维,Operation and maintenance,oam
+辐射,radiation,###radin
+折射率,Refractive index,rindex
+天气,weather,weather
+大气,atmosphere,atmoe
+着色,Coloring,colog
+管理,manage,manage
+信息,information,infon
+研究,Research,reseh
+气候,climate,climate
+纬度,latitude,latie
+林地,woodland,woodd
+效率,efficiency,effiy
+负氧离子,Negative oxygen ions,noi
+科学,science,science
+结构,structure,strue
+估算,Estimate,estie
+成功,success,success
+公里,kilometer,kilor
+活动,Activity,actiy
+网格,grid,###grid
+目录,content,###content
+光能,Light energy,lenergy
+速度,speed,speed
+规则,rule,rule
+概率,Probability,proby
+炭,carbon,###carbon
+自然,nature,###nature
+灾害,disaster,###disar
+门诊部,Clinic,clinic
+序号,Serial number,snumber
+水分,Water,###water
+类,kind,kind
+工程,project,###project
+库,Library,library
+标志,Signs,signs
+值,value,###value
+药材,Medicinal material,mmate
+尺度,scale,###scale
+亮度,brightness,brigs
+系统,system,###system
+速率,rate,rate
+数,number,number
+计算,calculate,calce
+成本,cost,cost
+统计,statistics,stats
+摄像,Camera,camera
+扫描,scanning,scang
+传统,Tradition,tradn
+监控,monitor,###monitor
+产生,produce,produce
+面积,area,###area
+热量,Calories,calos
+场所,place,place
+群体,group,###group
+年,year,year
+检验,test,###test
+思想,Thought,thought
+倍,Double,double
+城市,city,###city
+总,total,###total
+云状,Cloud -shaped,c-sha
+分钟,minute,###minute
+城镇,town,town
+路线,route,route
+中午,noon,noon
+市,city,###city
+季,season,###season
+病害,Disease,disease
+仰角,Elevation,elevn
+专科,Specialty,specy
+总量,Total amount,tamount
+人数,Number of people,nop
+科,division,divin
+夏,summer,summer
+时效,aging,aging
+海洋,ocean,ocean
+海平面,sea ??level,s??le
+小时,Hour,hour
+云,cloud,cloud
+观测,Observation,obsen
+积雪,snow,snow
+成分,Element,###element
+大小,size,size
+包,Bag,bag
+网,network,network
+预计,Predict,###predict
+总计,total,###total
+线路,line,line
+光合,Optical fit,ofit
+风,wind,wind
+分,Minute,###minute
+定位,position,###posin
+产业,industry,###induy
+明细,Detail,detail
+挑战,challenge,chale
