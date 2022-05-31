@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>751</width>
-    <height>485</height>
+    <width>923</width>
+    <height>677</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -17,15 +17,60 @@
    <bool>true</bool>
   </property>
   <widget class="QWidget" name="centralwidget">
-   <widget class="QTableView" name="tableView">
+   <widget class="QTableWidget" name="tableWidget">
     <property name="geometry">
      <rect>
       <x>0</x>
       <y>0</y>
-      <width>751</width>
-      <height>441</height>
+      <width>921</width>
+      <height>631</height>
      </rect>
     </property>
+    <row>
+     <property name="text">
+      <string>新建行</string>
+     </property>
+    </row>
+    <column>
+     <property name="text">
+      <string>ID</string>
+     </property>
+    </column>
+    <column>
+     <property name="text">
+      <string>内容</string>
+     </property>
+    </column>
+    <column>
+     <property name="text">
+      <string>翻译</string>
+     </property>
+    </column>
+    <column>
+     <property name="text">
+      <string>缩写</string>
+     </property>
+    </column>
+    <item row="0" column="0">
+     <property name="text">
+      <string>1</string>
+     </property>
+    </item>
+    <item row="0" column="1">
+     <property name="text">
+      <string>2</string>
+     </property>
+    </item>
+    <item row="0" column="2">
+     <property name="text">
+      <string>3</string>
+     </property>
+    </item>
+    <item row="0" column="3">
+     <property name="text">
+      <string>4</string>
+     </property>
+    </item>
    </widget>
   </widget>
   <widget class="QMenuBar" name="menubar">
@@ -33,7 +78,7 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>751</width>
+     <width>923</width>
      <height>22</height>
     </rect>
    </property>
@@ -41,7 +86,6 @@
     <property name="title">
      <string>文件</string>
     </property>
-    <addaction name="action_open"/>
     <addaction name="action_add"/>
     <addaction name="action_clean"/>
     <addaction name="separator"/>
@@ -52,16 +96,18 @@
     <property name="title">
      <string>功能</string>
     </property>
-    <addaction name="action"/>
+    <addaction name="action_select"/>
+    <addaction name="action_trans"/>
+    <addaction name="action_abb"/>
    </widget>
-   <widget class="QMenu" name="menu_3">
+   <widget class="QMenu" name="menu_about">
     <property name="title">
      <string>关于</string>
     </property>
    </widget>
    <addaction name="menu_file"/>
    <addaction name="menu_fun"/>
-   <addaction name="menu_3"/>
+   <addaction name="menu_about"/>
   </widget>
   <widget class="QStatusBar" name="statusbar">
    <property name="sizeGripEnabled">
@@ -69,6 +115,9 @@
    </property>
   </widget>
   <action name="action_open">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
    <property name="text">
     <string>打开</string>
    </property>
@@ -83,19 +132,29 @@
     <string>导出EXC</string>
    </property>
   </action>
-  <action name="action">
+  <action name="action_select">
    <property name="text">
-    <string>1</string>
+    <string>人工筛选</string>
    </property>
   </action>
   <action name="action_add">
    <property name="text">
-    <string>追加</string>
+    <string>添加文件</string>
    </property>
   </action>
   <action name="action_clean">
    <property name="text">
     <string>清空列表</string>
+   </property>
+  </action>
+  <action name="action_trans">
+   <property name="text">
+    <string>翻译（谷歌）</string>
+   </property>
+  </action>
+  <action name="action_abb">
+   <property name="text">
+    <string>缩写</string>
    </property>
   </action>
  </widget>
